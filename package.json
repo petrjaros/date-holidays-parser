@@ -58,7 +58,7 @@
     "lodash.merge": "^4.6.0",
     "lodash.omit": "^4.5.0",
     "lodash.set": "^4.3.2",
-    "moment-timezone": "^0.5.13"
+    "moment-timezone": "0.5.13"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
