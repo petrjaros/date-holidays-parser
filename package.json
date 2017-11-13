@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "astronomia": "^1.3.5",
-    "caldate": "^1.0.0",
+    "caldate": "git+https://github.com/petrjaros/caldate.git",
     "date-chinese": "^1.0.2",
     "date-easter": "^0.2.2",
     "lodash.get": "^4.4.2",
